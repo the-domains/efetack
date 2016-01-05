@@ -4,21 +4,21 @@
         <description><![CDATA[efetack]]></description>
         <link>https://thegrid.ai/efetack/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Jan 2016 10:12:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jan 2016 10:11:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/efetack/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[EFETACK ON THE ROAD]]></title>
-            <description><![CDATA[<article><h1>EFETACK ON THE ROAD</h1><p>that is where it all starts passing the line and heading towards today</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/87dac7b02ee5afcb64c8222669742ee6cf8d43fe.jpg"></article>]]></description>
-            <link>https://thegrid.ai/efetack/efetack-on-the-road/index.html</link>
-            <guid isPermaLink="false">a45f0939-516a-40b2-89d3-ca8c4baa25c5</guid>
-            <pubDate>Tue, 05 Jan 2016 10:12:26 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[next thing next steps]]></title>
             <description><![CDATA[<article><h1>next thing next steps</h1><p>NEXT THING NEXT STEPS</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9432e8756fc426f0b9aa89a4ad719e9603ef90a4.jpg"></article>]]></description>
             <link>https://thegrid.ai/efetack/next-thing-next-steps/index.html</link>
             <guid isPermaLink="false">38f59484-c103-4fb7-be0a-6c8e17558baf</guid>
             <pubDate>Tue, 05 Jan 2016 10:11:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[EFETACK ON THE ROAD]]></title>
+            <description><![CDATA[<article><h1>EFETACK ON THE ROAD</h1><p>that is where it all starts passing the line and heading towards today</p></article>]]></description>
+            <link>https://thegrid.ai/efetack/efetack-on-the-road/index.html</link>
+            <guid isPermaLink="false">a45f0939-516a-40b2-89d3-ca8c4baa25c5</guid>
+            <pubDate>Tue, 05 Jan 2016 09:18:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
