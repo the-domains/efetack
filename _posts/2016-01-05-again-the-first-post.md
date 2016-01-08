@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-05T10:12:46.037Z'
-dateModified: '2016-01-05T10:01:19.878Z'
+datePublished: '2016-01-08T17:01:08.998Z'
+dateModified: '2016-01-05T10:18:18.718Z'
 title: AGAIN THE FIRST POST
 author: []
 authors: []
@@ -23,4 +23,6 @@ _type: Article
 
 ---
 # AGAIN THE FIRST POST
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7160b346-0289-430b-9599-0e39f9076a46.png)
+
+This is to be my body text .....
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/99d5abab-50e7-48a9-bea4-bfb763e17ba1.jpg)
