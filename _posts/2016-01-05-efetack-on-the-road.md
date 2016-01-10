@@ -6,18 +6,18 @@ inLanguage: null
 starred: true
 keywords: []
 description: that is where it all starts passing the line and heading towards today
-datePublished: '2016-01-08T17:01:08.970Z'
-dateModified: '2016-01-05T10:12:26.944Z'
+datePublished: '2016-01-10T01:05:31.678Z'
+dateModified: '2016-01-08T17:05:33.085Z'
 title: EFETACK ON THE ROAD
 author: []
 sourcePath: _posts/2016-01-05-efetack-on-the-road.md
 published: true
 authors: []
 publisher:
+  favicon: null
   name: null
   domain: null
   url: null
-  favicon: null
 url: efetack-on-the-road/index.html
 _type: Article
 
