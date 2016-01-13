@@ -1,7 +1,7 @@
 name: efetack
 favicon: null
-layout_spectrum: 0.99189
-typography_spectrum: 0.4851064
+layout_spectrum: 1
+typography_spectrum: 0.70557
 collections:
   - index:
       path: /
