@@ -1,6 +1,6 @@
 name: efetack
 favicon: null
-layout_spectrum: 0.2
+layout_spectrum: 0.99189
 typography_spectrum: 0.4851064
 collections:
   - index:
@@ -29,13 +29,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#fbfcfe'
-    - '#000000'
-    - '#717171'
-    - '#6b96c0'
-    - '#afb1b1'
-  brandStrength: 1
-  lightness: 0.5
-  saturation: 0.625
-  rhythmicContrast: 0.75
+    - '#3e3838'
+    - '#7f7a6f'
+    - '#655b58'
+    - '#0d0b0d'
+    - '#d4d2d6'
+  brandStrength: 0.4375
+  lightness: 0.5625
+  saturation: 0.5625
+  rhythmicContrast: 0.5
 purpose: []
