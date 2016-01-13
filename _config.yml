@@ -14,7 +14,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: This is the TITLE
+title: WELCOME TO MY WORLD
 cta:
   domain: null
   bucket: null
