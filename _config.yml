@@ -1,41 +1,41 @@
-name: efetack
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.70557
+title: WELCOME TO MY WORLD
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-title: WELCOME TO MY WORLD
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+    permalink:
+      path: '/:title/'
 color:
+  saturation: 0.5625
+  brandStrength: 0.4375
+  rhythmicContrast: 0.5
   brandColors:
     - '#3e3838'
     - '#7f7a6f'
     - '#655b58'
     - '#0d0b0d'
     - '#d4d2d6'
-  brandStrength: 0.4375
   lightness: 0.5625
-  saturation: 0.5625
-  rhythmicContrast: 0.5
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: efetack
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.70557
+layout_spectrum: 0.2510638
