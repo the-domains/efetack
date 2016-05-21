@@ -6,23 +6,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 color:
-  saturation: 0.5625
+  saturation: 0.3021277
   brandStrength: 0.4375
-  rhythmicContrast: 0.5
+  lightness: 0.5234042
   brandColors:
     - '#3e3838'
     - '#7f7a6f'
     - '#655b58'
     - '#0d0b0d'
     - '#d4d2d6'
-  lightness: 0.5625
+  rhythmicContrast: 0.6106383
 cta:
   bucket: null
   version: null
@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: efetack
 favicon: null
+name: efetack
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.70557
-layout_spectrum: 0.2510638
+typography_spectrum: 0.5340425
+layout_spectrum: 0.3106383
