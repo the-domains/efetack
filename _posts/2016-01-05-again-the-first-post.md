@@ -1,23 +1,18 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
-starred: false
 keywords: []
-description: ''
-datePublished: '2016-01-08T17:01:08.998Z'
-dateModified: '2016-01-05T10:18:18.718Z'
+description: This is to be my body text .....
+datePublished: '2016-07-01T07:09:40.961Z'
+dateModified: '2016-07-01T07:09:40.442Z'
 title: AGAIN THE FIRST POST
 author: []
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
 sourcePath: _posts/2016-01-05-again-the-first-post.md
-published: true
+authors: []
+publisher: null
+starred: true
 url: again-the-first-post/index.html
 _type: Article
 
