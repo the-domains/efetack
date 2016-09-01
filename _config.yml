@@ -1,5 +1,34 @@
-title: WELCOME TO MY WORLD
-purpose: []
+typography_spectrum: 0.5340425
+color:
+  saturation: 0.3021277
+  brandStrength: 0.4375
+  lightness: 0.5234042
+  brandColors:
+    - '#3e3838'
+    - '#7f7a6f'
+    - '#655b58'
+    - '#0d0b0d'
+    - '#d4d2d6'
+  rhythmicContrast: 0.6106383
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.3106383
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: efetack
+cta:
+  bucket: null
+  version: null
+  domain: null
+navigation:
+  - name: See this
+    id: 38f59484-c103-4fb7-be0a-6c8e17558baf
+    type: content
+favicon: null
 collections:
   - index:
       path: /
@@ -12,30 +41,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.3021277
-  brandStrength: 0.4375
-  lightness: 0.5234042
-  brandColors:
-    - '#3e3838'
-    - '#7f7a6f'
-    - '#655b58'
-    - '#0d0b0d'
-    - '#d4d2d6'
-  rhythmicContrast: 0.6106383
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: efetack
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.5340425
-layout_spectrum: 0.3106383
+title: WELCOME TO MY WORLD
+purpose: []
