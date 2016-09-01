@@ -28,6 +28,9 @@ navigation:
   - name: See this
     id: 38f59484-c103-4fb7-be0a-6c8e17558baf
     type: content
+  - name: my homepage
+    url: 'http://www.efetack.com'
+    type: external
 favicon: null
 collections:
   - index:
