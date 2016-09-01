@@ -4,7 +4,7 @@
         <description><![CDATA[WELCOME TO MY WORLD]]></description>
         <link>https://thegrid.ai/efetack/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Jul 2016 07:09:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2016 08:51:12 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/efetack/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[AGAIN THE FIRST POST]]></title>
@@ -21,18 +21,18 @@
             <pubDate>Sun, 10 Jan 2016 01:05:31 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[NEXT]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7bfbb264-c91e-45b3-bead-c3dd6ee8a27f.jpg">]]></description>
+            <link>https://thegrid.ai/efetack/next-thing-next-steps/index.html</link>
+            <guid isPermaLink="false">38f59484-c103-4fb7-be0a-6c8e17558baf</guid>
+            <pubDate>Tue, 30 Aug 2016 08:51:09 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Jumping to Malta]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9f5838b1-5e4e-4317-bae3-a11f542b699c.png">]]></description>
             <link>https://thegrid.ai/efetack/jumping-to-malta/index.html</link>
             <guid isPermaLink="false">cf7c3d0f-071e-4a1c-a7a8-d469eeea85d0</guid>
             <pubDate>Wed, 13 Jan 2016 17:24:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[next thing next steps]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7bfbb264-c91e-45b3-bead-c3dd6ee8a27f.jpg">]]></description>
-            <link>https://thegrid.ai/efetack/next-thing-next-steps/index.html</link>
-            <guid isPermaLink="false">38f59484-c103-4fb7-be0a-6c8e17558baf</guid>
-            <pubDate>Fri, 08 Jan 2016 17:01:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
