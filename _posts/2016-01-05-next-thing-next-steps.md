@@ -3,21 +3,21 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
-description: the following steps will show how it runs
-datePublished: '2016-01-08T17:01:08.636Z'
-dateModified: '2016-01-05T10:11:03.465Z'
-title: next thing next steps
+description: NEXT THING NEXT STEPS
+datePublished: '2016-08-30T08:51:09.235Z'
+dateModified: '2016-08-30T08:51:08.641Z'
+title: ''
 author: []
+sourcePath: _posts/2016-01-05-next-thing-next-steps.md
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-05-next-thing-next-steps.md
-published: true
+via: {}
+starred: false
 url: next-thing-next-steps/index.html
 _type: Article
 
